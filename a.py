@@ -1,1 +1,2 @@
 print("husna")
+print("fiza")
